@@ -1,3 +1,8 @@
+# Deploy
+
+- Deploy SimpleStorage.sol here [https://remix.ethereum.org/](https://remix.ethereum.org/s)
+- Add public key in const in './contracts/SimpleStorage.js'
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
