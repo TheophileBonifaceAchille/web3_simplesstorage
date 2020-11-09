@@ -3,10 +3,6 @@
 - Deploy SimpleStorage.sol here [https://remix.ethereum.org/](https://remix.ethereum.org/s)
 - Add public key and abi here './contracts/SimpleStorage.js'
 
-```export const SimpleStorage_address = 'Here public contract key'
-
-export const SimpleStorage_abi = []```
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
